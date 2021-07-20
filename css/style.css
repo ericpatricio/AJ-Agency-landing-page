@@ -1,7 +1,6 @@
 /* Google font */
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&family=Righteous&display=swap');
 
-
 /* Custom variables */
 :root {
   --dark-color: #1e1e1e;
@@ -23,7 +22,6 @@
 html {
   scroll-behavior: smooth;
 }
-
 
 /* Global styling */
 body {
@@ -247,7 +245,6 @@ section.home {
   }
 }
 
-
 /* SERVICES PAGE */
 .services {
   margin-top: 40px;
@@ -271,7 +268,6 @@ section.home {
   padding: 30px;  
   box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1); 
 }
-
 
 .services .service h2 {
   font-size: 24px;
@@ -448,5 +444,3 @@ section.home {
     padding: 30px 30px 20px;
   }
 }
-
-
