@@ -253,14 +253,14 @@ section.home {
   gap: 40px;
   text-align: center;
 }
-@media (max-width: 768px) {
-  .services {
-    grid-template-columns: 1fr;
-  }
-}
 @media (max-width: 1068px) {
   .services {
     grid-template-columns: repeat(2, 1fr);
+  }
+}
+@media (max-width: 768px) {
+  .services {
+    grid-template-columns: 1fr;
   }
 }
 
